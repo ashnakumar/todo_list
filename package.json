@@ -1,0 +1,22 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "A learning project about nodejs and templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "helewrer3",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "joi": "^17.3.0",
+    "nodemon": "^2.0.7",
+    "npm": "^6.14.11"
+  }
+}
