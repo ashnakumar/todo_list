@@ -12,4 +12,4 @@ This can be expanded to include database management using technologies like Mong
 As an added restriction to help me learn validation, I have added a validator that checks if the inputted index lies within the array containing the task listing.
 
 ## Usability
-Run the index.js and open the port number (default 3000).
+Run the index.js and open the port number (default port 3000).
